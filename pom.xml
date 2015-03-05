@@ -8,6 +8,13 @@
     <artifactId>EventCoreference</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <repositories>
+        <repository>
+            <id>fbk-repo</id>
+            <url>https://raw.githubusercontent.com/fbk/mvn-repo/master/releases</url>
+        </repository>
+    </repositories>
+
     <dependencies>
 
         <!-- VUA stuff -->
